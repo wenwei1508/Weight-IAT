@@ -3,9 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>Weight IAT</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jspsych@7.3.0/css/jspsych.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body></body>
 
+<script src="https://cdn.jsdelivr.net/npm/jspsych@7.3.0/jspsych.js"></script>
 <script src="weight-iat.js"></script>
 </html>
